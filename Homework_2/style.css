@@ -1,0 +1,139 @@
+@font-face {
+	font-family: 'Open Sans Bold';
+	src: url('/fonts/open_sans_bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_bold.svg#open_sans_bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Bold Italic';
+	src: url('/fonts/open_sans_bold_italic.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_bold_italic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_bold_italic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_bold_italic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_bold_italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_bold_italic.svg#open_sans_bold_italic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Extrabold';
+	src: url('/fonts/open_sans_extrabold.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_extrabold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_extrabold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_extrabold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_extrabold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_extrabold.svg#open_sans_extrabold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Extrabold Italic';
+	src: url('/fonts/open_sans_extrabold_italic.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_extrabold_italic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_extrabold_italic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_extrabold_italic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_extrabold_italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_extrabold_italic.svg#open_sans_extrabold_italic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Italic';
+	src: url('/fonts/open_sans_italic.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_italic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_italic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_italic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_italic.svg#open_sans_italic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Light';
+	src: url('/fonts/open_sans_light.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_light.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_light.svg#open_sans_light') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Light Italic';
+	src: url('/fonts/open_sans_light_italic.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_light_italic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_light_italic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_light_italic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_light_italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_light_italic.svg#open_sans_light_italic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('/fonts/open_sans.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans.svg#open_sans') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Semibold';
+	src: url('/fonts/open_sans_semibold.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_semibold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_semibold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_semibold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_semibold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_semibold.svg#open_sans_semibold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Open Sans Semibold Italic';
+	src: url('/fonts/open_sans_semibold_italic.eot'); /* IE 9 Compatibility Mode */
+	src: url('/fonts/open_sans_semibold_italic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/fonts/open_sans_semibold_italic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/fonts/open_sans_semibold_italic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/fonts/open_sans_semibold_italic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/fonts/open_sans_semibold_italic.svg#open_sans_semibold_italic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background: #0000 url(image/Fon2.jpg); no-repeat;
+    color: #fff
+    background-size: 100px;
+}
+h1{
+    font-size:80px; color:  rgb(5, 3, 39);
+}
+h2{
+    font-size:50px; color: rgb(5, 3, 39);
+}
+li{
+    font-size:27px; color: rgb(5, 3, 39);
+}
+p1{
+    font-size:35px; color: rgb(5, 3, 39);  
+}
+.text {
+    text-align:  center;
+   }
+   .img-line {
+    padding: 10px; /* Расстояние от картинки до рамки */
+    margin-right: 10px; /* Отступ справа */
+    margin-bottom: 10px; /* Отступ снизу */
+}
+.lishka{
+    background-color: rgba(242, 241, 247, 0.452);
+}
+.lishka2{
+    background-color: rgba(206, 205, 211, 0.849);
+}
+hr{
+    border: none; /* Убираем границу для браузера Firefox */
+    color: #ec9c088e; /* Цвет линии для остальных браузеров */
+    background-color: rgba(255, 145, 0, 0.541); /* Цвет линии для браузера Firefox и Opera */
+    height: 6px; 
+}
